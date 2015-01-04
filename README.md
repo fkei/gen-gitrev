@@ -3,6 +3,17 @@ gen-gitrev
 
 Automatically generates source code to retrieve the HEAD revision of the git repository.
 
+# Download
+
+Release page: [https://github.com/fkei/gen-gitrev/releases](https://github.com/fkei/gen-gitrev/releases)
+Download binary file: [https://github.com/fkei/gen-gitrev/releases/download/0.1/gen-gitrev](https://github.com/fkei/gen-gitrev/releases/download/0.1/gen-gitrev)
+
+# install
+
+```sh
+$ go get github.com/fkei/gen-gitrev
+```
+
 # Use
 
 ```sh
@@ -18,6 +29,8 @@ func GetRevision() (string){
 	return "aa41f29462e685ebb199a205d97f938bc3789489"
 }
 ```
+
+
 # build
 
 ```sh
