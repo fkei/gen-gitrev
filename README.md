@@ -30,6 +30,11 @@ func GetRevision() (string){
 }
 ```
 
+# go generate <= go1.4
+
+```go
+//go:generate gen-gitrev -pkgname gen -out ./gen/gitrev_gen.go
+```
 
 # build
 
