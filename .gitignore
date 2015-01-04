@@ -24,4 +24,4 @@ _testmain.go
 *.prof
 
 *_gen.go
-gitrev2go
+gen-gitrev
