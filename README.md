@@ -5,8 +5,8 @@ Automatically generates source code to retrieve the HEAD revision of the git rep
 
 # Download
 
-Release page: [https://github.com/fkei/gen-gitrev/releases](https://github.com/fkei/gen-gitrev/releases)
-Download binary file: [https://github.com/fkei/gen-gitrev/releases/download/0.1/gen-gitrev](https://github.com/fkei/gen-gitrev/releases/download/0.1/gen-gitrev)
+- Release page: [https://github.com/fkei/gen-gitrev/releases](https://github.com/fkei/gen-gitrev/releases)
+- Download binary file(version 0.1): [https://github.com/fkei/gen-gitrev/releases/download/0.1/gen-gitrev](https://github.com/fkei/gen-gitrev/releases/download/0.1/gen-gitrev)
 
 # install
 
