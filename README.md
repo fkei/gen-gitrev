@@ -30,6 +30,19 @@ func GetRevision() (string){
 }
 ```
 
+# Options
+
+```
+$ gen-gitrev -h
+
+Usage of gen-gitrev:
+   gen-gitrev [OPTIONS] ARGS...
+
+Options  -out="/Users/fkei/repository/github/gen-gitrev/gitrev_gen.go": output file path
+  -pkgname="main": package name
+  
+```
+
 # go generate <= go1.4
 
 ```go
