@@ -43,7 +43,9 @@ Options  -out="/Users/fkei/repository/github/gen-gitrev/gitrev_gen.go": output f
   
 ```
 
-# go generate <= go1.4
+# go generate
+
+go1.4 <=
 
 ```go
 //go:generate gen-gitrev -pkgname gen -out ./gen/gitrev_gen.go
