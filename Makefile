@@ -1,4 +1,4 @@
-__out=gitrev2go
+__out=gen-gitrev
 
 all: build
 
